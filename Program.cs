@@ -42,7 +42,7 @@ namespace struct_lab_student
 
         static void Main(string[] args)
         {
-            string path = @"C:\Users\Admin\Desktop\input.txt";
+            string path = @"..\bin\Debug\input.txt";
 
             Student[] studs = ReadData(path);
 
